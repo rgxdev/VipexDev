@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Ich arbeite gerade an CloudSchaum.de https://discord.gg/eqTHyXZBaE
+- 🌱 Ich lerne gerade Java
+- ⚡ Fun fact: Ich habe mit 10 angefangen zu programmieren :D
+
 <!--
 **VipexDev/VipexDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
