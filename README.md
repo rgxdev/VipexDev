@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Ich arbeite gerade an Ac3X https://discord.gg/SHrbsYz9
-- 🌱 Ich programmiere mit PHP
+- 🌱 Ich programmiere mit JS
 - ⚡ Fun fact: Ich habe mit 10 angefangen zu programmieren :D
 - 📫 So könnt ihr mich erreichen:
-↳ Discord: VipexDE#7267
+↳ Discord: VipexDev#0001
 ↳ Twitter: VipexDe
 ↳ Instagram: VipexDE
 ↳ YouTube: VipexDE
