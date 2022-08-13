@@ -4,7 +4,7 @@
 - 🌱 I understand and work with PhP, CSS, HTML, JS, MYSQL and Swift
 - ⚡ Fun fact: I started learn programming with 10 years
 - 樂 I'm looking for FRONTEND Devs Html, Css contact me: https://dsc.gg/vipexdev
-You can reach me:
+- 📫 How to reach me:
 ↳ Discord: VipexDev#0001
 ↳ Twitter: VipexDe
 ↳ Instagram: and.insta0
@@ -12,6 +12,7 @@ You can reach me:
 
 
 ### Information
+
 - dsc.gg is a safe link zou can google it :)
 
 <!--
