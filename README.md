@@ -13,7 +13,7 @@
 
 ### Information
 
-- dsc.gg is a safe link zou can google it :)
+- dsc.gg is a safe link you can google it :)
 
 <!--
 **VipexDev/VipexDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
