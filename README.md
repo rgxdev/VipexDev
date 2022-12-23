@@ -5,10 +5,8 @@
 - ⚡ Fun fact: I started learn programming with 10 years
 - 樂 I'm looking for FRONTEND Devs Html, Css contact me: https://dsc.gg/vipexdev
 - 📫 How to reach me:
-↳ Discord: VipexDev#0001
-↳ Twitter: VipexDe
-↳ Instagram: and.insta0
-↳ YouTube: VipexDE
+↳ Discord: !vanx#0001
+↳ Email: help@trevex.tk
 
 
 ### Information
