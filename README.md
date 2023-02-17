@@ -2,11 +2,10 @@
 
 - 🔭 I currently try different things
 - 🌱 I understand and work with PhP, CSS, HTML, JS, MYSQL and Swift
-- ⚡ Fun fact: I started learn programming with 10 years
-- 樂 I'm looking for FRONTEND Devs Html, Css contact me: https://dsc.gg/vipexdev
+- 樂 I'm looking for FRONTEND Devs Html, Css contact me: https://dsc.gg/rgxx
 - 📫 How to reach me:
-↳ Discord: !vanx#0001
-↳ Email: help@trevex.tk
+↳ Discord: rgxdev#4989
+↳ Email: support@trevex.tk
 
 
 ### Information
